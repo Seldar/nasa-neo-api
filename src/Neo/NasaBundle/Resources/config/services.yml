@@ -1,0 +1,3 @@
+services:
+    nasa.api:
+        class: Neo\NasaBundle\Service\NasaAPI
